@@ -1,0 +1,12 @@
+{
+  "mnemonic": "./localconfig/mnemonic.txt",
+  "network": "goerli",
+  "beneficiary": "0x0",
+  "port": "80",
+  "helper": "0x0",
+  "entryPoint": "0x0",
+  "minBalance": "0",
+  "gasFactor": "1"
+    //the value has been removed for security reasons and mnemonics are not to be shared
+
+}
